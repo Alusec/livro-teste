@@ -4,6 +4,8 @@ Olá! você está no meu primeiro livro, comecei com um livro de testes, todo mu
 
 Bem...
 
+Para colocar alguma coisa, colocarei receitas de comidas :man_cook:.
+
 Aqui temos a receita do:
 
 - Purê de Batata
