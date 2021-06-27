@@ -9,3 +9,7 @@ Para colocar alguma coisa, colocarei receitas de comidas :man_cook:.
 Aqui temos a receita do:
 
 - Purê de Batata
+
+### <p align="center">:eye: Número de visitas ao perfil :eye:
+
+###  </p><p align="center">  <img alingn="center" src="https://profile-counter.glitch.me/Alusec/count.svg" /></p>
