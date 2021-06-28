@@ -9,6 +9,7 @@ Para colocar alguma coisa, colocarei receitas de comidas :man_cook:.
 Aqui temos a receita do:
 
 - Purê de Batata
+- Torta de Maracujá
 
 ### <p align="center">:eye: Número de visitas(F5 que eu dei rsrs) ao perfil :eye:
 
