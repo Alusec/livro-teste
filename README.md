@@ -1,4 +1,4 @@
-# Bem vindo
+# Bem-vindo! Welcome! benvenuto! ようこそ! Добро пожаловать!
 
 Olá! você está no meu primeiro livro, comecei com um livro de testes, todo mundo começa de um jeito não é verdade?
 
@@ -10,6 +10,6 @@ Aqui temos a receita do:
 
 - Purê de Batata
 
-### <p align="center">:eye: Número de visitas(F5 que eu dei) ao perfil :eye:
+### <p align="center">:eye: Número de visitas(F5 que eu dei rsrs) ao perfil :eye:
 
 ###  </p><p align="center">  <img alingn="center" src="https://profile-counter.glitch.me/Alusec/count.svg" /></p>
